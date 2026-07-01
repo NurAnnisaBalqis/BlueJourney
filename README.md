@@ -1,6 +1,6 @@
 # BlueJourney
 
-BlueJourney is a modern and responsive travel website that showcases some of Indonesia's most beautiful tourist destinations. This project was created as a Web Development portfolio using HTML, CSS, and JavaScript without any backend or database.
+BlueJourney is a modern and responsive travel website that showcases some of Indonesia's most beautiful tourist destinations. This project was created as a Front-End Development portfolio using HTML, CSS, and JavaScript without any backend or database.
 
 ## Features
 
